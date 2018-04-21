@@ -8,3 +8,6 @@ frontend-nanodegree-arcade-game
 4. There are several functions (e.g., render that helps with the movement and implementation of graphics of the page)
 5. The key handling at the bottom describes the movement of the characters and the collision functions describe when a bug collides with something, which prompts the reset buttons.
 6. If you make it to the water, you win the game.
+
+
+file:///Users/steph/Downloads/FinalGame2/index.html
